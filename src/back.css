@@ -1,0 +1,63 @@
+body 
+{
+	background-image:url("sun.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	/*img.background 
+	{
+		-webkit-filter:blur(50px);
+		filter:blur(50px);
+	}*/
+	background-color:#0000FF;
+	margin:auto;
+
+}
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+  border-radius:10px;
+}
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+#h1
+{
+	text-align:left;
+}
+#h2
+{
+	text-align:right;
+}
+#h3
+{
+	text-align:left;
+}
+#h4
+{
+	text-align:right;
+}
+#h5
+{
+	text-align:center;
+}
+#h6
+{
+	text-align:center;
+}
+#h7
+{
+	text-align:center;
+}
+#h8
+{
+	text-align:center;
+}
+#h9
+{
+	text-align:center;
+}
