@@ -1,2 +1,4 @@
 # atm_system
-web source code of atm system with database
+$ HTML code for ATM system.
+$ connected with database.
+$ contains options like account details,cash withdrawal,mobile recharge etc.
